@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\bin\Debug\hasta-randevu.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\bin\Debug\hasta-randevu.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\bin\Debug\hasta-randevu.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta_randevu.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta_randevu.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\hasta-randevu\hasta-randevu\obj\Debug\hasta-randevu.pdb
